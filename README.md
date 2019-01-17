@@ -1,5 +1,7 @@
 # shadowsocks
-> file shadowsocks.sh is a cool way to create shadowsocks server
+> file shadowsocks.sh is a cool way to create shadowsocks server, more detail please visit [https://www.abcdocker.com/abcdocker/2778](https://www.abcdocker.com/abcdocker/2778)
+
+> System Required:  CentOS 6+, Debian 7+, Ubuntu 12+ 
 
 ## How to use
 - download shadowsocks.sh 
